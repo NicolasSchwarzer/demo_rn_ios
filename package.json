@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "react": "16.6.1",
-    "react-native": "0.57.7"
+    "react-native": "0.57.7",
+    "react-native-code-push": "^5.4.2"
   },
   "devDependencies": {
     "@babel/plugin-proposal-decorators": "^7.1.6",
