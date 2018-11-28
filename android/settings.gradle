@@ -1,0 +1,3 @@
+rootProject.name = 'demo_rn_ios'
+
+include ':app'
