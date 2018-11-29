@@ -17,7 +17,7 @@ const instructions = Platform.select({
     'Shake or press menu button for dev menu',
 });
 
-@codePush()
+@codePush({ checkFrequency: codePush.CheckFrequency.ON_APP_RESUME })
 export default class App extends Component {
   render() {
     return (
